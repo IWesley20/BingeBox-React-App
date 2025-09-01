@@ -6,7 +6,7 @@ BingeBox is a modern streaming service that allows users to sign in, select thei
 
 - **User Authentication**: Sign in and log out with secure authentication.
 - **Save Favorites**: Users can save their favorite movies and shows for easy access.
-- **Responsive Design**: Webflix is fully responsive and works across different devices (desktop, tablet, mobile).
+- **Responsive Design**: Webflix is responsive and works across different devices (desktop, tablet, mobile).
 - **Watchlist**: Users can maintain a list of their favorite content.
 
 ## Technologies/Tools Used
